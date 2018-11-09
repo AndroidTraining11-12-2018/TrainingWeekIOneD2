@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TrainingWeekIOneD2</string>
+    <string name="show_date_results">Show Date Results</string>
+    <string name="display_time_selected">Display Time Selected</string>
+    <string name="display_text">Display Text</string>
+    <string name="some_data">Some Data</string>
+</resources>
